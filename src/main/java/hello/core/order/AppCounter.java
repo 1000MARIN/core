@@ -4,5 +4,7 @@ public class AppCounter {
     public static void main(String[] args) {
         long name;
         int won;
+        int price;
+        char tag;
     }
 }
