@@ -6,5 +6,6 @@ public class AppCounter {
         int won;
         int price;
         char tag;
+        int ddd;
     }
 }
