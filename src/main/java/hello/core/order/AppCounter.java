@@ -7,5 +7,7 @@ public class AppCounter {
         int price;
         char tag;
         int ddd;
+
+        long dddd;
     }
 }
