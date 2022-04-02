@@ -11,5 +11,6 @@ public class AppCounter {
         long chicken;
         long cake;
         long g_cova;
+        int num;
     }
 }
