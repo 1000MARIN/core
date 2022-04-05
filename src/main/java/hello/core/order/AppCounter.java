@@ -13,5 +13,6 @@ public class AppCounter {
         long g_cova;
         int num;
         long jok_bal;
+        long menu;
     }
 }
