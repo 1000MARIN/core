@@ -6,5 +6,6 @@ public class AppCounter {
         int won;
         long menu;
         int num;
+        int number;
     }
 }
