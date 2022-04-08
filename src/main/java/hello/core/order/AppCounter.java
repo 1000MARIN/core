@@ -7,5 +7,6 @@ public class AppCounter {
         long menu;
         int num;
         int number;
+        long pachinko;
     }
 }
