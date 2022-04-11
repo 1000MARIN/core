@@ -9,5 +9,6 @@ public class AppCounter {
         int number;
         long pachinko;
         long kim;
+        long lee;
     }
 }
