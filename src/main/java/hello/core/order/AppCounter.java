@@ -4,11 +4,5 @@ public class AppCounter {
     public static void main(String[] args) {
         long name;
         int won;
-        long menu;
-        int num;
-        int number;
-        long pachinko;
-        long kim;
-        long lee;
     }
 }
