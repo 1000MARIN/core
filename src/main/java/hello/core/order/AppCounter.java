@@ -5,5 +5,6 @@ public class AppCounter {
         int won;
         int sss;
         long yes;
+        long ll;
     }
 }
