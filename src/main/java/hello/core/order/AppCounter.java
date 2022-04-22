@@ -7,5 +7,6 @@ public class AppCounter {
         long yes;
         long ll;
         long kkkk;
+        int nu;
     }
 }
