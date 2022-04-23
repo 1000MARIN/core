@@ -8,5 +8,6 @@ public class AppCounter {
         long ll;
         long kkkk;
         int nu;
+        long chicken;
     }
 }
