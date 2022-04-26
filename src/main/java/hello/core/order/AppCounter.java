@@ -9,7 +9,7 @@ public class AppCounter {
         long kkkk;
         int nu;
         long chicken;
-
+        int num;
         long ccc;
     }
 }
