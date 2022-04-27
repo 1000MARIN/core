@@ -11,5 +11,6 @@ public class AppCounter {
         long chicken;
         int num;
         long ccc;
+        int yen;
     }
 }
