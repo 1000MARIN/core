@@ -12,5 +12,7 @@ public class AppCounter {
         int num;
         long ccc;
         int yen;
+
+        long kim;
     }
 }
