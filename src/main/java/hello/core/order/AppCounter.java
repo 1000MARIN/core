@@ -14,5 +14,6 @@ public class AppCounter {
         int yen;
         long dd;
         long kim;
+        long lee;
     }
 }
