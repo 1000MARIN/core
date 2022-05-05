@@ -15,5 +15,6 @@ public class AppCounter {
         long dd;
         long kim;
         long lee;
+        long ddd;
     }
 }
