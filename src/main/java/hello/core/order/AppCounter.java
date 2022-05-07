@@ -16,5 +16,6 @@ public class AppCounter {
         long kim;
         long lee;
         long ddd;
+        long pizza;
     }
 }
