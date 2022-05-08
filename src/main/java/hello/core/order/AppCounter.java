@@ -17,5 +17,6 @@ public class AppCounter {
         long lee;
         long ddd;
         long pizza;
+        long python;
     }
 }
