@@ -18,5 +18,6 @@ public class AppCounter {
         long ddd;
         long pizza;
         long python;
+        long java;
     }
 }
