@@ -5,6 +5,6 @@ import java.io.InputStreamReader;
 
 public class AppCounter {
     public static void main(String[] args) {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
     }
 }
