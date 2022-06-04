@@ -6,5 +6,7 @@ import java.io.InputStreamReader;
 public class AppCounter {
     public static void main(String[] args) {
 
+        int a = 0;
+
     }
 }
