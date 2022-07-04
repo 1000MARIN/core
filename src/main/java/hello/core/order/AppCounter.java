@@ -15,6 +15,7 @@ public class AppCounter {
         int g = 0;
         int h = 0;
         int i = 0;
+        int j = 0;
 
     }
 }
