@@ -19,6 +19,7 @@ public class AppCounter {
         int k = 0;
         int l = 0;
         String string = "";
+        String stri = "";
 
     }
 }
